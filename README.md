@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan Kuray</h1>
-<h3 align="center">I just graduated from Marmara University mechatronics engineering, I worked in various software fields (such as artificial intelligence and PLC programming) during my university years. I have been developing myself as a Front-End Developer in recent months, you can review my projects and programming languages ​​that I work below.</h3>
+<h5 align="center">I just graduated from Marmara University mechatronics engineering, I worked in various software fields (such as artificial intelligence and PLC programming) during my university years. I have been developing myself as a Front-End Developer in recent months, you can review my projects and programming languages ​​that I work below.</h5>
 
 - 🌱 I’m currently learning **react.js and node.js**
 
