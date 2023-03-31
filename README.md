@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **hasankryy@gmail.com**
 
-- 🌐 My portfolio is published on <a href="https://hasan-kuray.surge.sh" target="_blank">**https://hasan-kuray.surge.sh**<a/>
+- 🌐 My portfolio is published on **https://hasan-kuray.surge.sh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
